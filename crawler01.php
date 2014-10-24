@@ -1,6 +1,5 @@
-<?php
 
-##this is a good post
+<?php
 /**
  * 慕课网视频教学
  * 代码实例-PHP-cURL实战
